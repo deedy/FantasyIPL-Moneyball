@@ -1,0 +1,28 @@
+\documentclass[]{article}
+\usepackage{amsmath,amssymb}
+\begin{document}
+
+\title{Fantasy Indian Premier League - An Optimization Problem}
+\author{Debarghya Das}
+\date{March 28, 2014}
+\maketitle
+
+Given a set of $N$ players (around 180) $p_1, p_2, ... p_n$ where each player belongs to a team $p \in t\; \forall p \in P \; \and t \in T$ in a set of teams $T$ such that $|T| \approx 8$ , $M$ matches $m_1, m_2, ... ,m_M$ where a match $m_i$ is between two teams $t_1(m_i)$ and $t_2(m_i)$devise a strategy $S(i) \rightarrow Q$ which before match $i$ picks a set of 11 players $Q$ such to maximize a reward function $R$ and subject to various team constraints. \\
+$$ R(m_i) = \sum_{p_i \in t_1(m_i) t_2(m_i)} \mbox{performance}(p_i)$$
+Where the function $\mbox{performance}:p \rightarrow \mathbb{I}$. 
+Constraints for $p_i \in Q$ include 
+$$ \sum_{p_i \in Q }1_{\mbox{batsman} \in \mbox{skills}(p_i)} \geq 4$$
+$$ \sum_{p_i \in Q }1_{\mbox{allrounder} \in \mbox{skills}(p_i)} \geq 1$$
+$$ \sum_{p_i \in Q }1_{\mbox{bowler} \in \mbox{skills}(p_i)} \geq 2$$
+$$ \sum_{p_i \in Q }1_{\mbox{keeper} \in \mbox{skills}(p_i)} \geq 1$$
+$$ \sum_{p_i \in Q }1_{\mbox{bowler} \in \mbox{skills}(p_i)}  + \sum_{p_i \in Q }1_{\mbox{allrounder} \in \mbox{skills}(p_i)} \geq 5$$
+$$ \sum_{p_i \in Q }1_{\mbox{keeper} \in \mbox{skills}(p_i)} \geq 1$$
+$$ \sum_{p_i \in Q }\mbox{isOverseas}(p_i) \leq 4$$
+$$ \sum_{p_i \in Q }\mbox{isUncapped}(p_i) \geq 1$$
+$$ \max_{t \in T} \sum_{p_i \in Q }1_{p_i \in t} \leq 6$$
+
+where $\mbox{skills}: p \rightarrow (s_1, s_2)$ where 
+$s_1 \in \{\mbox{batsman} , \mbox{allrounder} , \mbox{bowler} ,\mbox{keeper} \}$ 
+and $s_2 \in \phi \cup \{\mbox{batsman} , \mbox{allrounder} , \mbox{bowler} ,\mbox{keeper} \}$ such that $s_1 \neq s_2$. \textit{isUncapped} and \textit{isOverseas} are binary functions. More about the $\mbox{performance}$ function can be read at 
+\textbf{\href{https://fantasy.iplt20.com/ifl/default/faq\#earningpoints}}.
+\end{document}
