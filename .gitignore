@@ -1,2 +1,7 @@
 *.mat
+*.pyc
+*.m~
+WriteUp/
+playerStats/
+results/
 *.pik
