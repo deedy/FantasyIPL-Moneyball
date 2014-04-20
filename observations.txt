@@ -537,3 +537,21 @@ schedule for first 5 days with 20 subs
 , 148 - Stuart Binny (RR)    $850000
 , 193 - James Faulkner (RR)      $950000
 ]
+
+
+performed squad update
+can do future ommissions
+refreshed data with new good personally touched data - recalculated averages and all
+nicely integrated match by match data for weighing
+predictive performance
+real time historical updates for this ipl and integration
+one free uncapped substitution
+
+pics -
+1. graph of price to value
+2. graph of predicted before tournament and predicted after tournament
+3. prediction accuracy
+4. graph of change of value through tournament with respect to average
+5. tournament underperformers and overperformers
+6. hyperplane separating bowlers and batsmen by batting skill
+7. portfolio value over time
