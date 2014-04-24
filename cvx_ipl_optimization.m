@@ -16,7 +16,7 @@ function [x, x_orig, subs_per_day] =  cvx_ipl_optimization(A,Q,B,G,H,players, su
                max(uncapped_mask.*(x(1:end)-[curr_team'; x(1:end-players)])) <= 1;
                uncapped_subs == sum(uncapped_mask.*(x(1:end)-[curr_team'; x(1:end-players)]));
                sum(sum(abs(x(1:end)-[curr_team'; x(1:end-players)])/2)) <= subs + uncapped_subs;
-% % % %                %                sum(abs(x(1:players)-curr_team')/2) <= 10;
+% % % % %                %                sum(abs(x(1:players)-curr_team')/2) <= 10;
         cvx_end
         x_orig = x;
         x = int8(vec2mat(x,players));

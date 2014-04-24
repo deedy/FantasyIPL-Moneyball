@@ -18,19 +18,19 @@ global data
 # Run current team setup
 # Run past stas
 
-SUBSTITUTIONS = 58
+SUBSTITUTIONS = 45
 # DAYS = 37
-START = "419"
+START = "424"
 # RUN IN SELECTION https://fantasy.iplt20.com/ifl/player/createteam
 # var team = []
 # $('#selectmyplayers').find('.playerlist').find('.namesorting').each(function(i,e) {team.push($(e).text().toLowerCase());});
 # team
-CURRENT_TEAM = set(["manish pandey", "virat kohli", "suresh raina", "jp duminy", "akshar patel", "jacques kallis", "yuvraj singh", "dinesh karthik", "sunil narine", "krishmar santokie", "yuzvendra chahal"])
+CURRENT_TEAM = set(["manish pandey", "ajinkya rahane", "dwayne smith", "francois du plessis", "suresh raina", "brendon mccullum", "akshar patel", "shane watson", "yuvraj singh", "ravichandran ashwin", "yuzvendra chahal"])
 # RUN IN https://fantasy.iplt20.com/ifl/research/player_researchall
 # var playerpoint = "";
 # $('#selectplayersList').find('.playerlistouter').each(function(i,e) {playerpoint+="\""+$(e).find('.namesorting').text().toLowerCase()+"\":"+$(e).find('.pricesorting').text()+","});
 # playerpoint
-PAST_STATS = {"mithun manhas":0,"dwayne smith":130,"francois du plessis":0,"suresh raina":29,"brendon mccullum":119,"baba aparajith":0,"dwayne bravo":15,"john hastings":0,"ravindra jadeja":-1,"vijay shankar":0,"ms dhoni":53,"pawan negi":-5,"ravichandran ashwin":51,"ashish nehra":32,"ben hilfenhaus":0,"ishwar pandey":0,"matt henry":0,"mohit sharma":-4,"ronit more":0,"samuel badree":0,"jayant yadav":0,"kedar jadhav":0,"kevin pietersen":0,"manoj tiwary":14,"mayank agarwal":55,"milind kumar":0,"murali vijay":16,"ross taylor":85,"saurabh tiwary":0,"jp duminy":276,"jimmy neesham":5,"laxmi ratan shukla":0,"dinesh karthik":105,"quinton de kock":0,"nathan coulter-nile":85,"hs sharath":0,"jaidev unadkat":51,"mohammed shami":86,"rahul sharma":19,"rahul shukla":0,"shahbaz nadeem":24,"siddarth kaul":0,"wayne parnell":25,"chris lynn":0,"debabrata das":0,"gautam gambhir":-17,"manish pandey":183,"suryakumar yadav":39,"robin uthappa":126,"andre russell":0,"jacques kallis":200,"kuldeep yadav":0,"ryan ten doeschate":0,"shakib al hasan":115,"yusuf pathan":33,"manvinder bisla":0,"piyush chawla":88,"morne morkel":136,"pat cummins":0,"sayan mondal":0,"sunil narine":235,"umesh yadav":0,"veer pratap singh":0,"vinay kumar":24,"cheteshwar pujara":21,"david miller":102,"george bailey":39,"gurkeerat mann singh":0,"manan vohra":0,"mandeep singh":0,"shaun marsh":0,"shivam sharma":0,"virender sehwag":43,"akshar patel":39,"glenn maxwell":219,"rishi dhawan":32,"thisara perera":0,"wriddhiman saha":5,"mitchell johnson":0,"anureet singh":0,"beuran hendricks":0,"karanveer singh":0,"lakshmipathy balaji":54,"murali kartik":0,"parvinder awana":22,"sandeep sharma":0,"shardul thakur":0,"apporv wankhade":0,"jalaj saxena":0,"michael hussey":10,"rohit sharma":65,"corey anderson":22,"aditya tare":44,"ambati rayudu":109,"kieron pollard":6,"ben dunk":0,"cm gautam":7,"sushant marathe":0,"harbhajan singh":76,"jasprit bumrah":13,"josh hazlewood":0,"krishmar santokie":0,"lasith malinga":180,"marchant de lange":0,"pawan suyal":0,"pragyan ojha":8,"shreyas gopal":0,"zaheer khan":142,"nic maddinson":38,"tanmay mishra":0,"vijay zol":0,"virat kohli":99,"ab de villiers":84,"albie morkel":92,"chris gayle":0,"yuvraj singh":135,"parthiv patel":202,"yogesh takawale":0,"abu nechim":0,"ashok dinda":73,"harshal patel":0,"mitchell starc":137,"muttiah muralitharan":0,"ravi rampaul":0,"sachin rana":30,"sandeep warrier":0,"shadab jakati":0,"varun aaron":166,"yuzvendra chahal":209,"ajinkya rahane":125,"brad hodge":9,"unmukt chand":0,"abhishek nayar":10,"karun nair":0,"steve smith":0,"sanju samson":12,"ben cutting":0,"rajat bhatia":95,"shane watson":4,"stuart binny":87,"ankush bains":0,"dishant yagnik":0,"ankit sharma":0,"james faulkner":21,"kevon cooper":0,"a mishra":0,"deepak hooda":0,"dhawal kulkarni":92,"iqbal abdulla":0,"kane richardson":115,"pravin tambe":39,"rahul tewatia":0,"tim southee":0,"vikramjeet malik":0,"aaron finch":19,"david warner":39,"manpreet juneja":0,"ricky bhui":0,"shikhar dhawan":64,"srikkanth anirudha":0,"venugopal rao":20,"darren sammy":13,"irfan pathan":0,"moises henriques":0,"amit paunikar":0,"brendan taylor":0,"lokesh rahul":34,"naman ojha":0,"parveez rasool":0,"amit mishra":78,"ashish reddy":0,"bhuvneshwar kumar":50,"chama milind":0,"dale steyn":75,"ishant sharma":43,"jason holder":0,"karn sharma":28,"prasanth parameswaran":0}
+PAST_STATS = {"glenn maxwell":659,"jp duminy":318,"dwayne smith":310,"ravindra jadeja":299,"david miller":269,"rajat bhatia":236,"sunil narine":235,"lakshmipathy balaji":229,"ravichandran ashwin":221,"suresh raina":216,"akshar patel":213,"dhawal kulkarni":209,"yuzvendra chahal":209,"parthiv patel":202,"jacques kallis":200,"manish pandey":183,"ishwar pandey":181,"lasith malinga":180,"bhuvneshwar kumar":178,"varun aaron":166,"brendon mccullum":164,"ajinkya rahane":161,"stuart binny":153,"mitchell johnson":149,"ms dhoni":148,"jaidev unadkat":144,"kane richardson":144,"zaheer khan":142,"mitchell starc":137,"morne morkel":136,"dinesh karthik":135,"yuvraj singh":135,"cheteshwar pujara":131,"sanju samson":130,"shane watson":130,"robin uthappa":126,"mohammed shami":119,"pravin tambe":117,"amit mishra":117,"shakib al hasan":115,"dale steyn":114,"ambati rayudu":109,"ben hilfenhaus":104,"virender sehwag":104,"virat kohli":99,"francois du plessis":98,"albie morkel":92,"ross taylor":91,"piyush chawla":88,"steve smith":87,"mohit sharma":86,"nathan coulter-nile":85,"ab de villiers":84,"george bailey":76,"harbhajan singh":76,"jimmy neesham":75,"darren sammy":74,"ashok dinda":73,"lokesh rahul":73,"james faulkner":69,"rohit sharma":65,"david warner":63,"shikhar dhawan":63,"mayank agarwal":62,"rishi dhawan":57,"sandeep sharma":55,"parvinder awana":52,"mithun manhas":51,"abhishek nayar":51,"karn sharma":48,"murali vijay":44,"aditya tare":44,"aaron finch":44,"venugopal rao":43,"ishant sharma":43,"shahbaz nadeem":42,"suryakumar yadav":39,"nic maddinson":38,"yusuf pathan":33,"ashish nehra":32,"tim southee":32,"sachin rana":30,"wriddhiman saha":26,"wayne parnell":25,"vinay kumar":24,"corey anderson":22,"rahul sharma":19,"dwayne bravo":15,"murali kartik":15,"jasprit bumrah":13,"michael hussey":10,"brad hodge":9,"pragyan ojha":8,"manoj tiwary":7,"cm gautam":7,"kieron pollard":6,"john hastings":0,"vijay shankar":0,"baba aparajith":0,"ronit more":0,"samuel badree":0,"matt henry":0,"jayant yadav":0,"saurabh tiwary":0,"kedar jadhav":0,"milind kumar":0,"kevin pietersen":0,"laxmi ratan shukla":0,"quinton de kock":0,"siddarth kaul":0,"rahul shukla":0,"hs sharath":0,"shaun marsh":0,"gurkeerat mann singh":0,"mandeep singh":0,"shivam sharma":0,"manan vohra":0,"thisara perera":0,"beuran hendricks":0,"anureet singh":0,"shardul thakur":0,"karanveer singh":0,"chris lynn":0,"debabrata das":0,"andre russell":0,"kuldeep yadav":0,"ryan ten doeschate":0,"manvinder bisla":0,"veer pratap singh":0,"umesh yadav":0,"sayan mondal":0,"pat cummins":0,"jalaj saxena":0,"apporv wankhade":0,"ben dunk":0,"sushant marathe":0,"josh hazlewood":0,"krishmar santokie":0,"marchant de lange":0,"pawan suyal":0,"shreyas gopal":0,"unmukt chand":0,"karun nair":0,"ben cutting":0,"ankush bains":0,"dishant yagnik":0,"ankit sharma":0,"kevon cooper":0,"iqbal abdulla":0,"rahul tewatia":0,"deepak hooda":0,"vikramjeet malik":0,"a mishra":0,"vijay zol":0,"tanmay mishra":0,"chris gayle":0,"yogesh takawale":0,"shadab jakati":0,"abu nechim":0,"harshal patel":0,"ravi rampaul":0,"sandeep warrier":0,"muttiah muralitharan":0,"manpreet juneja":0,"ricky bhui":0,"srikkanth anirudha":0,"moises henriques":0,"naman ojha":0,"brendan taylor":0,"amit paunikar":0,"parveez rasool":0,"jason holder":0,"chama milind":0,"prasanth parameswaran":0,"ashish reddy":0,"pawan negi":-5,"irfan pathan":-6,"gautam gambhir":-17}
 def getPlayer(players, substr):
   return filter(lambda x: substr in x.name.lower(), players)
 
@@ -175,6 +175,10 @@ def scoreAlgo3WithStat(player, stats, is_international = False):
     battingstats = battingstats[0]
     bowlingstats = bowlingstats[0]
     fieldingstats = fieldingstats[0]
+    # avgrun = np.mean([x['r'] for x in player.tournamentStats['international']['battingStats'][1]])
+    # stdrun = np.std([x['r'] for x in player.tournamentStats['international']['battingStats'][1]])
+    # if battingstats['i'] >= 10:
+    #   print "{0} {1:.2f}, {2:.2f} \t {3:.2f}".format(player.name, avgrun, stdrun, avgrun-stdrun)
   # Batting
 
 
@@ -206,7 +210,10 @@ def scoreAlgo3WithStat(player, stats, is_international = False):
     bowlingpoints = econscore + 20*(wickets/innings) + 10*math.floor((wickets/innings)/2) + 20*(maidens/innings) + (dots/innings)
     bowlingpoints = bowlingpoints
 
+  # if "McCull" in player.name:
+  #   Tracer()()
   #Fielding
+
 
   matches = float(fieldingstats['m'])
   catches = int(fieldingstats['c'])
@@ -218,7 +225,7 @@ def scoreAlgo3WithStat(player, stats, is_international = False):
     bowlingpoints/=(10-matches)
     fieldingpoints/=(10-matches)
   totalpoints = battingpoints + bowlingpoints + fieldingpoints
-  # print "{0}\t\tBat: {1}\tBowl: {2}\tField: {3}\tTotal:{4}".format(player, battingpoints, bowlingpoints, fieldingpoints, totalpoints)
+  print "{0}\t\tBat: {1}\tBowl: {2}\tField: {3}\tTotal:{4}".format(player, battingpoints, bowlingpoints, fieldingpoints, totalpoints)
 
   # if "Doeschate" in player.name:
   #   Tracer()()
@@ -246,9 +253,7 @@ def scorePlayerAlgo3(player):
   finalstats = [0.5*x + 0.5*y for x,y in zip(otherstats,intstats)]
 
 
-  print "{0}\t\tBat: {1}\tBowl: {2}\tField: {3}\tTotal:{4}".format(player, finalstats[1], finalstats[2], finalstats[3], finalstats[0])
-
-
+  # print "{0}\t\tBat: {1}\tBowl: {2}\tField: {3}\tTotal:{4}".format(player, finalstats[1], finalstats[2], finalstats[3], finalstats[0])
 
   return tuple(finalstats)
 
