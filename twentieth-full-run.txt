@@ -1,0 +1,572 @@
+These players leaving:
+ [111 - Yuzvendra Chahal (RCB)   $650000
+]
+These players coming in:
+ [211 - Lasith Malinga (MI)      $950000
+]
+('430', ['MI', 'SRH'])
+[-53.0, -51.0, -36.0, -75.0, -92.0, -72.0, -55.0, -81.0, -63.0, -75.0, -75.0]
+[14 - Suresh Raina (CSK)     $1050000
+, 123 - Manish Pandey (KKR)      $800000
+, 127 - Robin Uthappa (KKR)      $900000
+, 198 - Jacques Kallis (KKR)     $1050000
+, 203 - Sunil Narine (KKR)   $1050000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 103 - Harbhajan Singh (MI)     $950000
+, 211 - Lasith Malinga (MI)      $950000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+]
+
+
+
+
+These players leaving:
+ [103 - Harbhajan Singh (MI)     $950000
+, 167 - Aaron Finch (SRH)    $950000
+]
+These players coming in:
+ [413 - Dwayne Smith (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+]
+('502', ['CSK', 'KKR'])
+[-115.0, -53.0, -73.0, -51.0, -36.0, -75.0, -92.0, -72.0, -81.0, -63.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 14 - Suresh Raina (CSK)    $1050000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 123 - Manish Pandey (KKR)      $800000
+, 127 - Robin Uthappa (KKR)      $900000
+, 198 - Jacques Kallis (KKR)     $1050000
+, 203 - Sunil Narine (KKR)   $1050000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 211 - Lasith Malinga (MI)      $950000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ [14 - Suresh Raina (CSK)    $1050000
+, 123 - Manish Pandey (KKR)      $800000
+, 198 - Jacques Kallis (KKR)     $1050000
+, 203 - Sunil Narine (KKR)   $1050000
+]
+These players coming in:
+ [182 - JP Duminy (DD)   $1000000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 92 - Rajat Bhatia (RR)     $850000
+]
+('503', ['MI', 'KXIP', 'DD', 'RR'])
+[-115.0, -73.0, -83.0, -36.0, -72.0, -141.0, -80.0, -81.0, -63.0, -63.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 127 - Robin Uthappa (KKR)      $900000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 211 - Lasith Malinga (MI)      $950000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ [127 - Robin Uthappa (KKR)      $900000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 211 - Lasith Malinga (MI)      $950000
+]
+These players coming in:
+ [44 - Parthiv Patel (RCB)   $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 167 - Aaron Finch (SRH)    $950000
+]
+('504', ['RCB', 'SRH'])
+[-115.0, -73.0, -83.0, -57.0, -78.0, -76.0, -83.0, -63.0, -63.0, -75.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 44 - Parthiv Patel (RCB)   $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+]
+
+
+
+
+These players leaving:
+ [44 - Parthiv Patel (RCB)   $850000
+, 167 - Aaron Finch (SRH)    $950000
+]
+These players coming in:
+ [202 - Brendon McCullum (CSK)   $1000000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+]
+('505', ['RR', 'KKR', 'DD', 'CSK'])
+[-115.0, -72.0, -67.0, -73.0, -83.0, -78.0, -76.0, -83.0, -63.0, -63.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 490 - Mitchell Starc (RCB)     $900000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('506', ['MI', 'RCB'])
+[-115.0, -72.0, -67.0, -73.0, -83.0, -78.0, -76.0, -83.0, -63.0, -63.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 490 - Mitchell Starc (RCB)     $900000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ [490 - Mitchell Starc (RCB)     $900000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+]
+These players coming in:
+ [1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+]
+('507', ['DD', 'KKR', 'KXIP', 'CSK'])
+[-115.0, -72.0, -67.0, -73.0, -83.0, -72.0, -141.0, -80.0, -63.0, -63.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ [8 - Ravichandran Ashwin (CSK)      $950000
+, 182 - JP Duminy (DD)   $1000000
+]
+These players coming in:
+ [167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+('508', ['RR', 'SRH'])
+[-115.0, -72.0, -73.0, -72.0, -141.0, -80.0, -63.0, -63.0, -75.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+These players coming in:
+ [61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+]
+('509', ['RCB', 'KXIP'])
+[-115.0, -72.0, -73.0, -72.0, -141.0, -80.0, -76.0, -83.0, -63.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('510', ['DD', 'SRH', 'MI', 'CSK'])
+[-115.0, -72.0, -73.0, -72.0, -141.0, -80.0, -76.0, -83.0, -63.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [1107 - Mohit Sharma (CSK)      $800000
+]
+These players coming in:
+ [1114 - Pravin Tambe (RR)   $800000
+]
+('511', ['KXIP', 'KKR', 'RCB', 'RR'])
+[-115.0, -72.0, -72.0, -141.0, -80.0, -76.0, -83.0, -63.0, -75.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('512', ['SRH', 'MI'])
+[-115.0, -72.0, -72.0, -141.0, -80.0, -76.0, -83.0, -63.0, -75.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('513', ['CSK', 'RR', 'RCB', 'DD'])
+[-115.0, -72.0, -72.0, -141.0, -80.0, -76.0, -83.0, -63.0, -75.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [413 - Dwayne Smith (CSK)   $1000000
+, 61 - Varun Aaron (RCB)     $800000
+]
+These players coming in:
+ [123 - Manish Pandey (KKR)      $800000
+, 203 - Sunil Narine (KKR)   $1050000
+]
+('514', ['SRH', 'KXIP', 'KKR', 'MI'])
+[-72.0, -51.0, -92.0, -72.0, -141.0, -80.0, -83.0, -63.0, -75.0, -75.0, -68.0]
+[202 - Brendon McCullum (CSK)    $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 203 - Sunil Narine (KKR)   $1050000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [282 - Glenn Maxwell (KXIP)     $900000
+]
+These players coming in:
+ [182 - JP Duminy (DD)   $1000000
+]
+('515', ['RR', 'DD'])
+[-72.0, -83.0, -51.0, -92.0, -72.0, -80.0, -83.0, -63.0, -75.0, -75.0, -68.0]
+[202 - Brendon McCullum (CSK)    $1000000
+, 182 - JP Duminy (DD)   $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 203 - Sunil Narine (KKR)   $1050000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [182 - JP Duminy (DD)   $1000000
+, 135 - Ajinkya Rahane (RR)      $900000
+]
+These players coming in:
+ [413 - Dwayne Smith (CSK)   $1000000
+, 61 - Varun Aaron (RCB)     $800000
+]
+('518', ['CSK', 'RCB', 'SRH', 'KKR'])
+[-115.0, -72.0, -51.0, -92.0, -72.0, -80.0, -76.0, -83.0, -75.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 203 - Sunil Narine (KKR)   $1050000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [203 - Sunil Narine (KKR)   $1050000
+]
+These players coming in:
+ [282 - Glenn Maxwell (KXIP)     $900000
+]
+('519', ['RR', 'MI', 'DD', 'KXIP'])
+[-115.0, -72.0, -51.0, -72.0, -141.0, -80.0, -76.0, -83.0, -75.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 1114 - Pravin Tambe (RR)   $800000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [1114 - Pravin Tambe (RR)   $800000
+]
+These players coming in:
+ [1107 - Mohit Sharma (CSK)      $800000
+]
+('520', ['SRH', 'RCB', 'KKR', 'CSK'])
+[-115.0, -72.0, -73.0, -51.0, -72.0, -141.0, -80.0, -76.0, -83.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 123 - Manish Pandey (KKR)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('521', ['KXIP', 'MI'])
+[-115.0, -72.0, -73.0, -51.0, -72.0, -141.0, -80.0, -76.0, -83.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 123 - Manish Pandey (KKR)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('522', ['KKR', 'RCB', 'CSK', 'SRH'])
+[-115.0, -72.0, -73.0, -51.0, -72.0, -141.0, -80.0, -76.0, -83.0, -75.0, -68.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 123 - Manish Pandey (KKR)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+
+
+
+
+These players leaving:
+ [167 - Aaron Finch (SRH)    $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+]
+These players coming in:
+ [182 - JP Duminy (DD)   $1000000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+('523', ['MI', 'DD', 'KXIP', 'RR'])
+[-115.0, -72.0, -73.0, -83.0, -51.0, -72.0, -141.0, -80.0, -76.0, -83.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ []
+These players coming in:
+ []
+('524', ['RCB', 'CSK', 'KKR', 'SRH'])
+[-115.0, -72.0, -73.0, -83.0, -51.0, -72.0, -141.0, -80.0, -76.0, -83.0, -75.0]
+[413 - Dwayne Smith (CSK)    $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 182 - JP Duminy (DD)   $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 61 - Varun Aaron (RCB)     $800000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 1114 - Pravin Tambe (RR)   $800000
+]
+
+
+
+
+These players leaving:
+ [413 - Dwayne Smith (CSK)   $1000000
+, 202 - Brendon McCullum (CSK)   $1000000
+, 1107 - Mohit Sharma (CSK)      $800000
+, 61 - Varun Aaron (RCB)     $800000
+]
+These players coming in:
+ [187 - David Miller (KXIP)      $1050000
+, 1088 - Rishi Dhawan (KXIP)     $750000
+, 258 - Sanju Samson (RR)    $800000
+, 92 - Rajat Bhatia (RR)     $850000
+]
+('525', ['KXIP', 'DD', 'MI', 'RR'])
+[-83.0, -51.0, -70.0, -72.0, -141.0, -54.0, -80.0, -83.0, -38.0, -63.0, -75.0]
+[182 - JP Duminy (DD)    $1000000
+, 123 - Manish Pandey (KKR)      $800000
+, 187 - David Miller (KXIP)      $1050000
+, 1113 - Akshar Patel (KXIP)     $600000
+, 282 - Glenn Maxwell (KXIP)     $900000
+, 1088 - Rishi Dhawan (KXIP)     $750000
+, 1112 - Sandeep Sharma (KXIP)   $650000
+, 111 - Yuzvendra Chahal (RCB)   $650000
+, 258 - Sanju Samson (RR)    $800000
+, 92 - Rajat Bhatia (RR)     $850000
+, 1114 - Pravin Tambe (RR)   $800000
+]

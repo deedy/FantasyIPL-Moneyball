@@ -1,0 +1,702 @@
+Properly compiled stats career (includes several ODI series)
+
+('416', ['MI', 'KKR'])
+[79.08877119502581, 165.50929758071098, 76.14547214163352, 102.62135057471264, 161.55234150065684, 151.48023098196398, 112.89134173846266, 172.2634562279671, 135.06667077990588, 114.3647813159542, 40.06547109962406]
+[14 - Suresh Raina (CSK)     $1050000
+, 94 - Mohammed Shami (DD)   $850000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 261 - Kuldeep Yadav (KKR)      $600000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 169 - Morne Morkel (KKR)   $900000
+, 203 - Sunil Narine (KKR)   $1050000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 165 - Zaheer Khan (MI)     $900000
+, 258 - Sanju Samson (RR)    $800000
+]
+
+
+
+
+('417', ['DD', 'RCB'])
+[79.08877119502581, 173.28571345958258, 113.13592644059511, 110.74235667804909, 165.50929758071098, 102.62135057471264, 172.2634562279671, 135.06667077990588, 114.3647813159542, 194.23358553566354, 40.06547109962406]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 182 - JP Duminy (DD)   $1000000
+, 971 - Jimmy Neesham (DD)   $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 261 - Kuldeep Yadav (KKR)      $600000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 165 - Zaheer Khan (MI)     $900000
+, 490 - Mitchell Starc (RCB)     $900000
+, 258 - Sanju Samson (RR)    $800000
+]
+
+
+
+
+('418', ['CSK', 'KXIP', 'SRH', 'RR'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+]
+
+
+
+
+('419', ['RCB', 'MI', 'KKR', 'DD'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+]
+
+
+
+
+('420', ['RR', 'KXIP'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 160.00921370034578, 75.53012084932347, 151.95078943598793, 40.06547109962406, 135.27722135326152, 118.55462845010616, 229.1359271467843]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 227 - Shane Watson (RR)    $1100000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+]
+
+
+
+
+('421', ['CSK', 'DD'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 113.13592644059511, 165.50929758071098, 160.00921370034578, 75.53012084932347, 151.95078943598793, 40.06547109962406, 118.55462845010616]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 182 - JP Duminy (DD)   $1000000
+, 94 - Mohammed Shami (DD)   $850000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+]
+
+
+
+
+('422', ['KXIP', 'SRH'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 160.00921370034578, 75.53012084932347, 151.95078943598793, 40.06547109962406, 118.55462845010616, 164.99627440932358, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('423', ['RR', 'CSK'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 75.53012084932347, 151.95078943598793, 40.06547109962406, 135.27722135326152, 118.55462845010616, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 227 - Shane Watson (RR)    $1100000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('424', ['RCB', 'KKR'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 102.62135057471264, 161.55234150065684, 194.23358553566354, 75.53012084932347, 151.95078943598793, 40.06547109962406, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 261 - Kuldeep Yadav (KKR)      $600000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 490 - Mitchell Starc (RCB)     $900000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('425', ['SRH', 'DD', 'CSK', 'MI'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('426', ['RR', 'RCB', 'KXIP', 'KKR'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('427', ['DD', 'MI', 'SRH', 'CSK'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('428', ['RCB', 'KXIP'])
+[79.08877119502581, 173.28571345958258, 76.14547214163352, 160.00921370034578, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('429', ['KKR', 'RR'])
+[79.08877119502581, 173.28571345958258, 76.14547214163352, 161.55234150065684, 151.48023098196398, 135.06667077990588, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 169 - Morne Morkel (KKR)   $900000
+, 106 - Pragyan Ojha (MI)    $850000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('430', ['MI', 'SRH'])
+[79.08877119502581, 173.28571345958258, 76.14547214163352, 161.55234150065684, 151.48023098196398, 172.2634562279671, 135.06667077990588, 40.06547109962406, 118.55462845010616, 164.99627440932358, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 169 - Morne Morkel (KKR)   $900000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('502', ['CSK', 'KKR'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 76.14547214163352, 161.55234150065684, 151.48023098196398, 172.2634562279671, 135.06667077990588, 40.06547109962406, 118.55462845010616]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 169 - Morne Morkel (KKR)   $900000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+]
+
+
+
+
+('503', ['MI', 'KXIP', 'DD', 'RR'])
+[79.08877119502581, 165.92353959515287, 165.50929758071098, 76.14547214163352, 160.00921370034578, 172.2634562279671, 135.06667077990588, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843]
+[14 - Suresh Raina (CSK)     $1050000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+]
+
+
+
+
+('504', ['RCB', 'SRH'])
+[79.08877119502581, 165.92353959515287, 165.50929758071098, 76.14547214163352, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 164.99627440932358, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('505', ['RR', 'KKR', 'DD', 'CSK'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 165.50929758071098, 76.14547214163352, 161.55234150065684, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+]
+
+
+
+
+('506', ['MI', 'RCB'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 165.50929758071098, 76.14547214163352, 161.55234150065684, 172.2634562279671, 135.06667077990588, 194.23358553566354, 40.06547109962406]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 258 - Sanju Samson (RR)    $800000
+]
+
+
+
+
+('507', ['DD', 'KKR', 'KXIP', 'CSK'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 165.50929758071098, 76.14547214163352, 161.55234150065684, 151.48023098196398, 58.98704000794881, 160.00921370034578, 40.06547109962406]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 169 - Morne Morkel (KKR)   $900000
+, 72 - Mandeep Singh (KXIP)      $750000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 258 - Sanju Samson (RR)    $800000
+]
+
+
+
+
+('508', ['RR', 'SRH'])
+[173.28571345958258, 165.92353959515287, 58.98704000794881, 160.00921370034578, 151.95078943598793, 40.06547109962406, 229.1359271467843, 67.6779223550118, 116.46381594599418, 164.99627440932358, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 72 - Mandeep Singh (KXIP)      $750000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('509', ['RCB', 'KXIP'])
+[173.28571345958258, 165.92353959515287, 58.98704000794881, 160.00921370034578, 194.23358553566354, 151.95078943598793, 40.06547109962406, 67.6779223550118, 116.46381594599418, 164.99627440932358, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 72 - Mandeep Singh (KXIP)      $750000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('510', ['DD', 'SRH', 'MI', 'CSK'])
+[173.28571345958258, 165.92353959515287, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 67.6779223550118, 116.46381594599418, 164.99627440932358, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('511', ['KXIP', 'KKR', 'RCB', 'RR'])
+[173.28571345958258, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 67.6779223550118, 116.46381594599418, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('512', ['SRH', 'MI'])
+[173.28571345958258, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 67.6779223550118, 116.46381594599418, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('513', ['CSK', 'RR', 'RCB', 'DD'])
+[173.28571345958258, 165.50929758071098, 172.2634562279671, 194.23358553566354, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 67.6779223550118, 116.46381594599418, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('514', ['SRH', 'KXIP', 'KKR', 'MI'])
+[173.28571345958258, 165.50929758071098, 172.2634562279671, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 67.6779223550118, 116.46381594599418, 164.99627440932358, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('515', ['RR', 'DD'])
+[173.28571345958258, 165.50929758071098, 172.2634562279671, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843, 67.6779223550118, 116.46381594599418, 164.99627440932358, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('518', ['CSK', 'RCB', 'SRH', 'KKR'])
+[173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 194.23358553566354, 151.95078943598793, 40.06547109962406, 67.6779223550118, 116.46381594599418, 164.99627440932358, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 116 - Bhuvneshwar Kumar (SRH)      $900000
+, 180 - Dale Steyn (SRH)     $1050000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('519', ['RR', 'MI', 'DD', 'KXIP'])
+[173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 229.1359271467843, 67.6779223550118, 127.12903710094768]
+[9 - Ravindra Jadeja (CSK)   $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 307 - Tim Southee (RR)     $850000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('520', ['SRH', 'RCB', 'KKR', 'CSK'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 161.55234150065684, 172.2634562279671, 135.06667077990588, 194.23358553566354, 40.06547109962406, 67.6779223550118, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 258 - Sanju Samson (RR)    $800000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('521', ['KXIP', 'MI'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 161.55234150065684, 172.2634562279671, 135.06667077990588, 194.23358553566354, 40.06547109962406, 67.6779223550118, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 258 - Sanju Samson (RR)    $800000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('522', ['KKR', 'RCB', 'CSK', 'SRH'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 158.41527969128714, 161.55234150065684, 172.2634562279671, 135.06667077990588, 194.23358553566354, 40.06547109962406, 67.6779223550118, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 17 - Ben Hilfenhaus (CSK)      $900000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 258 - Sanju Samson (RR)    $800000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('523', ['MI', 'DD', 'KXIP', 'RR'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('524', ['RCB', 'CSK', 'KKR', 'SRH'])
+[79.08877119502581, 173.28571345958258, 165.92353959515287, 165.50929758071098, 172.2634562279671, 135.06667077990588, 194.23358553566354, 151.95078943598793, 40.06547109962406, 229.1359271467843, 127.12903710094768]
+[14 - Suresh Raina (CSK)     $1050000
+, 9 - Ravindra Jadeja (CSK)      $950000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 490 - Mitchell Starc (RCB)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 307 - Tim Southee (RR)     $850000
+, 38 - Ishant Sharma (SRH)   $850000
+]
+
+
+
+
+('525', ['KXIP', 'DD', 'MI', 'RR'])
+[79.08877119502581, 165.92353959515287, 165.50929758071098, 160.00921370034578, 172.2634562279671, 135.06667077990588, 114.3647813159542, 151.95078943598793, 40.06547109962406, 118.55462845010616, 229.1359271467843]
+[14 - Suresh Raina (CSK)     $1050000
+, 8 - Ravichandran Ashwin (CSK)      $950000
+, 94 - Mohammed Shami (DD)   $850000
+, 213 - Mitchell Johnson (KXIP)      $950000
+, 968 - Corey Anderson (MI)      $850000
+, 106 - Pragyan Ojha (MI)    $850000
+, 165 - Zaheer Khan (MI)     $900000
+, 271 - Steve Smith (RR)     $950000
+, 258 - Sanju Samson (RR)    $800000
+, 1556 - Deepak Hooda (RR)   $600000
+, 307 - Tim Southee (RR)     $850000
+]
+
+Substitutions per game
+     4
+     4
+     0
+     3
+     2
+     2
+     2
+     3
+     3
+     1
+     0
+     3
+     2
+     2
+     2
+     4
+     3
+     3
+     3
+     3
+     6
+     1
+     2
+     2
+     0
+     1
+     1
+     0
+     2
+     2
+     3
+     0
+     0
+     3
+     0
+     3

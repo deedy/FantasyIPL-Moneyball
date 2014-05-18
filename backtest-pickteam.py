@@ -18,19 +18,19 @@ global data
 # Run current team setup
 # Run past stas
 
-SUBSTITUTIONS = 75
-# DAYS = 37
-START = "416"
-# RUN IN SELECTION https://fantasy.iplt20.com/ifl/player/createteam
-  # var team = []
-  # $('#selectmyplayers').find('.playerlist').find('.namesorting').each(function(i,e) {team.push($(e).text().toLowerCase());});
-  # team
-CURRENT_TEAM = set(["rohit sharma", "ajinkya rahane", "david warner", "jp duminy", "robin uthappa", "shane watson", "sandeep sharma", "sunil narine", "pravin tambe", "yuzvendra chahal", "bhuvneshwar kumar"])
-# RUN IN https://fantasy.iplt20.com/ifl/research/player_researchall
-# var playerpoint = "";
-# $('#selectplayersList').find('.playerlistouter').each(function(i,e) {playerpoint+="\""+$(e).find('.namesorting').text().toLowerCase()+"\":"+$(e).find('.pricesorting').text()+","});
-# playerpoint
-PAST_STATS = {"glenn maxwell":1164,"dwayne smith":1015,"bhuvneshwar kumar":924,"ravindra jadeja":823,"shane watson":754,"yuvraj singh":754,"robin uthappa":748,"mohit sharma":732,"mitchell starc":731,"sunil narine":730,"pravin tambe":712,"jp duminy":711,"lasith malinga":703,"david miller":677,"sandeep sharma":667,"ab de villiers":661,"david warner":658,"yuzvendra chahal":653,"brendon mccullum":618,"dale steyn":599,"ravichandran ashwin":586,"mitchell johnson":583,"harbhajan singh":575,"rajat bhatia":573,"rohit sharma":542,"shakib al hasan":538,"suresh raina":524,"varun aaron":524,"akshar patel":518,"ambati rayudu":517,"james faulkner":514,"aaron finch":499,"parthiv patel":472,"virender sehwag":460,"rishi dhawan":443,"morne morkel":443,"ajinkya rahane":443,"sanju samson":439,"gautam gambhir":429,"jacques kallis":428,"wriddhiman saha":422,"kieron pollard":421,"dinesh karthik":416,"lakshmipathy balaji":412,"kane richardson":411,"karn sharma":410,"ms dhoni":399,"ishwar pandey":398,"corey anderson":388,"francois du plessis":385,"piyush chawla":384,"karun nair":369,"shikhar dhawan":362,"manish pandey":361,"murali vijay":344,"naman ojha":343,"ben hilfenhaus":333,"george bailey":331,"steve smith":317,"mohammed shami":306,"stuart binny":290,"amit mishra":289,"suryakumar yadav":287,"wayne parnell":286,"cm gautam":271,"virat kohli":269,"albie morkel":252,"dhawal kulkarni":251,"lokesh rahul":251,"kedar jadhav":249,"shahbaz nadeem":242,"quinton de kock":239,"vinay kumar":236,"jaidev unadkat":213,"jasprit bumrah":213,"chris gayle":213,"lendl simmons":206,"ashok dinda":202,"kevin pietersen":199,"irfan pathan":199,"darren sammy":199,"cheteshwar pujara":171,"yusuf pathan":159,"umesh yadav":159,"mayank agarwal":155,"pragyan ojha":155,"shivam sharma":149,"aditya tare":143,"ankit sharma":139,"harshal patel":139,"moises henriques":135,"chris lynn":133,"mithun manhas":114,"samuel badree":113,"manan vohra":103,"ishant sharma":101,"tim southee":93,"ross taylor":91,"laxmi ratan shukla":88,"ben dunk":85,"praveen kumar":81,"sachin rana":81,"muttiah muralitharan":80,"jimmy neesham":75,"parvinder awana":73,"venugopal rao":70,"ravi rampaul":68,"yogesh takawale":62,"siddarth kaul":61,"abhishek nayar":61,"rahul tewatia":61,"rahul shukla":50,"kevon cooper":50,"rilee rossouw":48,"manoj tiwary":42,"ryan ten doeschate":39,"mandeep singh":37,"ashish nehra":32,"murali kartik":31,"abu nechim":26,"pawan suyal":25,"vijay zol":23,"iqbal abdulla":19,"rahul sharma":18,"manvinder bisla":17,"michael hussey":17,"andre russell":15,"dishant yagnik":12,"brad hodge":9,"john hastings":0,"baba aparajith":0,"ronit more":0,"matt henry":0,"milind kumar":0,"saurabh tiwary":0,"jayant yadav":0,"hs sharath":0,"shaun marsh":0,"gurkeerat mann singh":0,"thisara perera":0,"shardul thakur":0,"karanveer singh":0,"beuran hendricks":0,"anureet singh":0,"debabrata das":0,"kuldeep yadav":0,"pat cummins":0,"sayan mondal":0,"veer pratap singh":0,"apporv wankhade":0,"jalaj saxena":0,"sushant marathe":0,"shreyas gopal":0,"josh hazlewood":0,"krishmar santokie":0,"marchant de lange":0,"unmukt chand":0,"ben cutting":0,"ankush bains":0,"vikramjeet malik":0,"deepak hooda":0,"a mishra":0,"tanmay mishra":0,"shadab jakati":0,"sandeep warrier":0,"manpreet juneja":0,"srikkanth anirudha":0,"ricky bhui":0,"amit paunikar":0,"brendan taylor":0,"parveez rasool":0,"prasanth parameswaran":0,"chama milind":0,"jason holder":0,"ashish reddy":0,"imran tahir":-2,"vijay shankar":-4,"pawan negi":-5}
+# SUBSTITUTIONS = 10
+# # DAYS = 37
+# START = "515"
+# # RUN IN SELECTION https://fantasy.iplt20.com/ifl/player/createteam
+#   # var team = []
+#   # $('#selectmyplayers').find('.playerlist').find('.namesorting').each(function(i,e) {team.push($(e).text().toLowerCase());});
+#   # team
+# CURRENT_TEAM = set(["rohit sharma", "ajinkya rahane", "david warner", "glenn maxwell", "robin uthappa", "shane watson", "sandeep sharma", "sunil narine", "pravin tambe", "yuzvendra chahal", "bhuvneshwar kumar"])
+# # RUN IN https://fantasy.iplt20.com/ifl/research/player_researchall
+# # var playerpoint = "";
+# # $('#selectplayersList').find('.playerlistouter').each(function(i,e) {playerpoint+="\""+$(e).find('.namesorting').text().toLowerCase()+"\":"+$(e).find('.pricesorting').text()+","});
+# # playerpoint
+# PAST_STATS = {"glenn maxwell":1164,"dwayne smith":1015,"bhuvneshwar kumar":924,"ravindra jadeja":823,"shane watson":754,"yuvraj singh":754,"robin uthappa":748,"mohit sharma":732,"mitchell starc":731,"sunil narine":730,"pravin tambe":712,"jp duminy":711,"lasith malinga":703,"david miller":677,"sandeep sharma":667,"ab de villiers":661,"david warner":658,"yuzvendra chahal":653,"brendon mccullum":618,"dale steyn":599,"ravichandran ashwin":586,"mitchell johnson":583,"harbhajan singh":575,"rajat bhatia":573,"rohit sharma":542,"shakib al hasan":538,"suresh raina":524,"varun aaron":524,"akshar patel":518,"ambati rayudu":517,"james faulkner":514,"aaron finch":499,"parthiv patel":472,"virender sehwag":460,"rishi dhawan":443,"morne morkel":443,"ajinkya rahane":443,"sanju samson":439,"gautam gambhir":429,"jacques kallis":428,"wriddhiman saha":422,"kieron pollard":421,"dinesh karthik":416,"lakshmipathy balaji":412,"kane richardson":411,"karn sharma":410,"ms dhoni":399,"ishwar pandey":398,"corey anderson":388,"francois du plessis":385,"piyush chawla":384,"karun nair":369,"shikhar dhawan":362,"manish pandey":361,"murali vijay":344,"naman ojha":343,"ben hilfenhaus":333,"george bailey":331,"steve smith":317,"mohammed shami":306,"stuart binny":290,"amit mishra":289,"suryakumar yadav":287,"wayne parnell":286,"cm gautam":271,"virat kohli":269,"albie morkel":252,"dhawal kulkarni":251,"lokesh rahul":251,"kedar jadhav":249,"shahbaz nadeem":242,"quinton de kock":239,"vinay kumar":236,"jaidev unadkat":213,"jasprit bumrah":213,"chris gayle":213,"lendl simmons":206,"ashok dinda":202,"kevin pietersen":199,"irfan pathan":199,"darren sammy":199,"cheteshwar pujara":171,"yusuf pathan":159,"umesh yadav":159,"mayank agarwal":155,"pragyan ojha":155,"shivam sharma":149,"aditya tare":143,"ankit sharma":139,"harshal patel":139,"moises henriques":135,"chris lynn":133,"mithun manhas":114,"samuel badree":113,"manan vohra":103,"ishant sharma":101,"tim southee":93,"ross taylor":91,"laxmi ratan shukla":88,"ben dunk":85,"praveen kumar":81,"sachin rana":81,"muttiah muralitharan":80,"jimmy neesham":75,"parvinder awana":73,"venugopal rao":70,"ravi rampaul":68,"yogesh takawale":62,"siddarth kaul":61,"abhishek nayar":61,"rahul tewatia":61,"rahul shukla":50,"kevon cooper":50,"rilee rossouw":48,"manoj tiwary":42,"ryan ten doeschate":39,"mandeep singh":37,"ashish nehra":32,"murali kartik":31,"abu nechim":26,"pawan suyal":25,"vijay zol":23,"iqbal abdulla":19,"rahul sharma":18,"manvinder bisla":17,"michael hussey":17,"andre russell":15,"dishant yagnik":12,"brad hodge":9,"john hastings":0,"baba aparajith":0,"ronit more":0,"matt henry":0,"milind kumar":0,"saurabh tiwary":0,"jayant yadav":0,"hs sharath":0,"shaun marsh":0,"gurkeerat mann singh":0,"thisara perera":0,"shardul thakur":0,"karanveer singh":0,"beuran hendricks":0,"anureet singh":0,"debabrata das":0,"kuldeep yadav":0,"pat cummins":0,"sayan mondal":0,"veer pratap singh":0,"apporv wankhade":0,"jalaj saxena":0,"sushant marathe":0,"shreyas gopal":0,"josh hazlewood":0,"krishmar santokie":0,"marchant de lange":0,"unmukt chand":0,"ben cutting":0,"ankush bains":0,"vikramjeet malik":0,"deepak hooda":0,"a mishra":0,"tanmay mishra":0,"shadab jakati":0,"sandeep warrier":0,"manpreet juneja":0,"srikkanth anirudha":0,"ricky bhui":0,"amit paunikar":0,"brendan taylor":0,"parveez rasool":0,"prasanth parameswaran":0,"chama milind":0,"jason holder":0,"ashish reddy":0,"imran tahir":-2,"vijay shankar":-4,"pawan negi":-5}
 def getPlayer(players, substr):
   return filter(lambda x: substr in x.name.lower(), players)
 
@@ -79,7 +79,6 @@ def setUpAndSaveVars(players, scores, schedule):
   Q_new = []
 
   days = len(schedule["schedule"])
-  Tracer()()
   start_index = schedule["schedule"].index([x for x in schedule["schedule"] if x[0] == START][0])
   past_games = {}
   for t in teams:
@@ -497,29 +496,3 @@ def pickTeam(players, schedule):
   sortedscores = sorted(zip(players,scores,bat_scores, bowl_scores, field_scores), key=lambda x: x[1])
   Tracer()()
   setUpAndSaveVars(players, scores, schedule)
-
-def main():
-  if len(sys.argv) <= 2:
-    print "Run as pickTeam.py <data pickle file name> <schedule pickle file name>"
-    sys.exit()
-  file_to_parse = sys.argv[1]
-  file2_to_parse = sys.argv[2]
-  if not os.path.isfile(file_to_parse):
-    print "{0} does not exist.".format(file_to_parse)
-    sys.exit()
-  if not os.path.isfile(file2_to_parse):
-    print "{0} does not exist.".format(file2_to_parse)
-    sys.exit()
-  f = open(file_to_parse)
-  global data
-  data = pickle.load(f)
-  f.close()
-  g = open(file2_to_parse)
-  schedule = pickle.load(g)
-  g.close()
-  pickTeam(data, schedule)
-  # Tracer()()
-
-
-if __name__ == '__main__':
-  main()

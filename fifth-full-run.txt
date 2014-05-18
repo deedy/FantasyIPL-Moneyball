@@ -1,0 +1,664 @@
+t20 history, experience weighed with kevin pietersen ruled out from match 2
+
+('416', ['MI', 'KKR'])
+[70.94303940632304, 100.01796465242384, 73.37656962210391, 93.30663964809311, 90.28479777345602, 79.86440222829036, 57.5909053979533, 28.07105957767723, 99.18412595208224, 91.01735276493751, 76.34731934731934]
+[89 - Manoj Tiwary (DD)      $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 198 - Jacques Kallis (KKR)     $1050000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 76 - Piyush Chawla (KKR)   $900000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 20 - Michael Hussey (MI)   $1000000
+, 107 - Rohit Sharma (MI)       $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+]
+
+
+
+
+('417', ['DD', 'RCB'])
+[70.94303940632304, 68.67349973555855, 71.3565872908043, 76.41333607927852, 100.01796465242384, 50.81164021164021, 28.07105957767723, 91.01735276493751, 76.34731934731934, 85.27457685324843, 130.22221131579263]
+[89 - Manoj Tiwary (DD)      $850000
+, 7 - Murali Vijay (DD)      $900000
+, 226 - Ross Taylor (DD)     $950000
+, 971 - Jimmy Neesham (DD)   $950000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 164 - Virat Kohli (RCB)    $1050000
+, 236 - Chris Gayle (RCB)    $1100000
+]
+
+
+
+
+('418', ['CSK', 'KXIP', 'SRH', 'RR'])
+[70.94303940632304, 76.41333607927852, 100.01796465242384, 50.81164021164021, 28.07105957767723, 99.64568009715278, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 115.75194853679074]
+[89 - Manoj Tiwary (DD)      $850000
+, 971 - Jimmy Neesham (DD)   $950000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+]
+
+
+
+
+('419', ['RCB', 'MI', 'KKR', 'DD'])
+[70.94303940632304, 76.41333607927852, 100.01796465242384, 50.81164021164021, 28.07105957767723, 99.64568009715278, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 115.75194853679074]
+[89 - Manoj Tiwary (DD)      $850000
+, 971 - Jimmy Neesham (DD)   $950000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+]
+
+
+
+
+('420', ['RR', 'KXIP'])
+[70.94303940632304, 76.41333607927852, 100.01796465242384, 50.81164021164021, 28.07105957767723, 104.1507832733768, 99.64568009715278, 51.3819409444214, 88.38030121879592, 103.10926172124806, 115.75194853679074]
+[89 - Manoj Tiwary (DD)      $850000
+, 971 - Jimmy Neesham (DD)   $950000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 125 - Murali Kartik (KXIP)     $850000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+]
+
+
+
+
+('421', ['CSK', 'DD'])
+[84.63402583609685, 104.65844879677135, 100.19338011850246, 70.94303940632304, 76.41333607927852, 100.01796465242384, 50.81164021164021, 28.07105957767723, 104.1507832733768, 99.64568009715278, 51.3819409444214]
+[24 - Faf du Plessis (CSK)   $950000
+, 14 - Suresh Raina (CSK)    $1050000
+, 172 - Kevin Pietersen (DD)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 971 - Jimmy Neesham (DD)   $950000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 125 - Murali Kartik (KXIP)     $850000
+]
+
+
+
+
+('422', ['KXIP', 'SRH'])
+[84.63402583609685, 104.65844879677135, 70.94303940632304, 28.07105957767723, 104.1507832733768, 99.64568009715278, 51.3819409444214, 96.70591096362557, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[24 - Faf du Plessis (CSK)   $950000
+, 14 - Suresh Raina (CSK)    $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 125 - Murali Kartik (KXIP)     $850000
+, 167 - Aaron Finch (SRH)    $950000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('423', ['RR', 'CSK'])
+[84.63402583609685, 104.65844879677135, 70.94303940632304, 28.07105957767723, 51.3819409444214, 88.38030121879592, 103.10926172124806, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[24 - Faf du Plessis (CSK)   $950000
+, 14 - Suresh Raina (CSK)    $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 125 - Murali Kartik (KXIP)     $850000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('424', ['RCB', 'KKR'])
+[84.63402583609685, 104.65844879677135, 70.94303940632304, 74.1568189809931, 28.07105957767723, 51.3819409444214, 85.27457685324843, 130.22221131579263, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[24 - Faf du Plessis (CSK)   $950000
+, 14 - Suresh Raina (CSK)    $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 179 - Chris Lynn (KKR)     $800000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 125 - Murali Kartik (KXIP)     $850000
+, 164 - Virat Kohli (RCB)    $1050000
+, 236 - Chris Gayle (RCB)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('425', ['SRH', 'DD', 'CSK', 'MI'])
+[84.63402583609685, 104.65844879677135, 70.94303940632304, 28.07105957767723, 51.3819409444214, 91.01735276493751, 76.34731934731934, 130.22221131579263, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[24 - Faf du Plessis (CSK)   $950000
+, 14 - Suresh Raina (CSK)    $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 125 - Murali Kartik (KXIP)     $850000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('426', ['RR', 'RCB', 'KXIP', 'KKR'])
+[104.65844879677135, 28.07105957767723, 99.64568009715278, 51.3819409444214, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 125 - Murali Kartik (KXIP)     $850000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('427', ['DD', 'MI', 'SRH', 'CSK'])
+[104.65844879677135, 28.07105957767723, 99.64568009715278, 51.3819409444214, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 125 - Murali Kartik (KXIP)     $850000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('428', ['RCB', 'KXIP'])
+[28.07105957767723, 104.1507832733768, 99.64568009715278, 51.3819409444214, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[1746 - Sayan Mondal (KKR)   $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 125 - Murali Kartik (KXIP)     $850000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('429', ['KKR', 'RR'])
+[73.37656962210391, 90.28479777345602, 79.86440222829036, 28.07105957767723, 91.01735276493751, 76.34731934731934, 88.38030121879592, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[84 - Gautam Gambhir (KKR)   $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('430', ['MI', 'SRH'])
+[73.37656962210391, 90.28479777345602, 79.86440222829036, 28.07105957767723, 99.18412595208224, 91.01735276493751, 76.34731934731934, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[84 - Gautam Gambhir (KKR)   $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 20 - Michael Hussey (MI)   $1000000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('502', ['CSK', 'KKR'])
+[104.65844879677135, 100.01796465242384, 74.1568189809931, 73.37656962210391, 90.28479777345602, 79.86440222829036, 28.07105957767723, 99.18412595208224, 91.01735276493751, 76.34731934731934, 88.38030121879592]
+[14 - Suresh Raina (CSK)     $1050000
+, 102 - Dinesh Karthik (DD)      $900000
+, 179 - Chris Lynn (KKR)     $800000
+, 84 - Gautam Gambhir (KKR)      $950000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 20 - Michael Hussey (MI)   $1000000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+]
+
+
+
+
+('503', ['MI', 'KXIP', 'DD', 'RR'])
+[70.94303940632304, 100.01796465242384, 50.81164021164021, 79.86440222829036, 28.07105957767723, 99.18412595208224, 91.01735276493751, 76.34731934731934, 88.38030121879592, 103.10926172124806, 115.75194853679074]
+[89 - Manoj Tiwary (DD)      $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 20 - Michael Hussey (MI)   $1000000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+]
+
+
+
+
+('504', ['RCB', 'SRH'])
+[70.94303940632304, 100.01796465242384, 50.81164021164021, 79.86440222829036, 28.07105957767723, 76.34731934731934, 130.22221131579263, 88.38030121879592, 103.10926172124806, 115.75194853679074, 90.95741990146188]
+[89 - Manoj Tiwary (DD)      $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+]
+
+
+
+
+('505', ['RR', 'KKR', 'DD', 'CSK'])
+[104.65844879677135, 70.94303940632304, 100.01796465242384, 50.81164021164021, 90.28479777345602, 79.86440222829036, 28.07105957767723, 76.34731934731934, 88.38030121879592, 103.10926172124806, 115.75194853679074]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+]
+
+
+
+
+('506', ['MI', 'RCB'])
+[104.65844879677135, 70.94303940632304, 100.01796465242384, 50.81164021164021, 90.28479777345602, 79.86440222829036, 28.07105957767723, 99.18412595208224, 76.34731934731934, 130.22221131579263, 88.38030121879592]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 20 - Michael Hussey (MI)   $1000000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+]
+
+
+
+
+('507', ['DD', 'KKR', 'KXIP', 'CSK'])
+[104.65844879677135, 70.94303940632304, 100.01796465242384, 50.81164021164021, 90.28479777345602, 79.86440222829036, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 88.38030121879592]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 94 - Mohammed Shami (DD)   $850000
+, 201 - Shakib Al Hasan (KKR)    $950000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+]
+
+
+
+
+('508', ['RR', 'SRH'])
+[104.65844879677135, 70.94303940632304, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 88.38030121879592, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('509', ['RCB', 'KXIP'])
+[104.65844879677135, 70.94303940632304, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 130.22221131579263, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('510', ['DD', 'SRH', 'MI', 'CSK'])
+[104.65844879677135, 70.94303940632304, 28.07105957767723, 99.64568009715278, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('511', ['KXIP', 'KKR', 'RCB', 'RR'])
+[70.94303940632304, 28.07105957767723, 99.64568009715278, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[89 - Manoj Tiwary (DD)      $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('512', ['SRH', 'MI'])
+[70.94303940632304, 28.07105957767723, 99.64568009715278, 91.01735276493751, 76.34731934731934, 130.22221131579263, 88.38030121879592, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[89 - Manoj Tiwary (DD)      $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 107 - Rohit Sharma (MI)    $1050000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('513', ['CSK', 'RR', 'RCB', 'DD'])
+[104.65844879677135, 70.94303940632304, 28.07105957767723, 99.64568009715278, 76.34731934731934, 130.22221131579263, 88.38030121879592, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('514', ['SRH', 'KXIP', 'KKR', 'MI'])
+[70.94303940632304, 79.86440222829036, 28.07105957767723, 99.64568009715278, 76.34731934731934, 88.38030121879592, 115.75194853679074, 96.70591096362557, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[89 - Manoj Tiwary (DD)      $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 167 - Aaron Finch (SRH)    $950000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('515', ['RR', 'DD'])
+[70.94303940632304, 100.01796465242384, 79.86440222829036, 28.07105957767723, 76.34731934731934, 88.38030121879592, 103.10926172124806, 115.75194853679074, 96.70591096362557, 90.95741990146188, 65.37225037987628]
+[89 - Manoj Tiwary (DD)      $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+, 167 - Aaron Finch (SRH)    $950000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+]
+
+
+
+
+('518', ['CSK', 'RCB', 'SRH', 'KKR'])
+[104.65844879677135, 70.94303940632304, 79.86440222829036, 28.07105957767723, 76.34731934731934, 130.22221131579263, 88.38030121879592, 96.70591096362557, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 167 - Aaron Finch (SRH)    $950000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('519', ['RR', 'MI', 'DD', 'KXIP'])
+[104.65844879677135, 70.94303940632304, 79.86440222829036, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('520', ['SRH', 'RCB', 'KKR', 'CSK'])
+[104.65844879677135, 70.94303940632304, 79.86440222829036, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 130.22221131579263, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('521', ['KXIP', 'MI'])
+[104.65844879677135, 70.94303940632304, 79.86440222829036, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 130.22221131579263, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('522', ['KKR', 'RCB', 'CSK', 'SRH'])
+[104.65844879677135, 70.94303940632304, 79.86440222829036, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 130.22221131579263, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 96 - Yusuf Pathan (KKR)    $1000000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('523', ['MI', 'DD', 'KXIP', 'RR'])
+[104.65844879677135, 70.94303940632304, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 88.38030121879592, 115.75194853679074, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 227 - Shane Watson (RR)    $1100000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('524', ['RCB', 'CSK', 'KKR', 'SRH'])
+[104.65844879677135, 70.94303940632304, 28.07105957767723, 104.1507832733768, 99.64568009715278, 76.34731934731934, 130.22221131579263, 88.38030121879592, 90.95741990146188, 65.37225037987628, 115.53041320406278]
+[14 - Suresh Raina (CSK)     $1050000
+, 89 - Manoj Tiwary (DD)     $850000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 236 - Chris Gayle (RCB)    $1100000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 41 - Shikhar Dhawan (SRH)      $950000
+, 49 - Irfan Pathan (SRH)    $900000
+, 530 - Brendan Taylor (SRH)     $850000
+]
+
+
+
+
+('525', ['KXIP', 'DD', 'MI', 'RR'])
+[70.94303940632304, 100.01796465242384, 28.07105957767723, 104.1507832733768, 99.64568009715278, 68.76450361150418, 76.34731934731934, 88.38030121879592, 103.10926172124806, 115.75194853679074, 65.37225037987628]
+[89 - Manoj Tiwary (DD)      $850000
+, 102 - Dinesh Karthik (DD)      $900000
+, 1746 - Sayan Mondal (KKR)      $600000
+, 191 - Shaun Marsh (KXIP)   $1000000
+, 45 - Virender Sehwag (KXIP)    $950000
+, 103 - Harbhajan Singh (MI)     $950000
+, 1747 - Krishmar Santokie (MI)      $750000
+, 135 - Ajinkya Rahane (RR)      $900000
+, 229 - Brad Hodge (RR)      $1000000
+, 227 - Shane Watson (RR)    $1100000
+, 49 - Irfan Pathan (SRH)    $900000
+]

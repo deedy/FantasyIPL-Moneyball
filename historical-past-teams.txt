@@ -1,0 +1,59 @@
+515 -
+["rohit sharma", "ajinkya rahane", "david warner", "jp duminy", "robin uthappa", "shane watson", "sandeep sharma", "sunil narine", "pravin tambe", "yuzvendra chahal", "bhuvneshwar kumar"]
+514 -
+["rohit sharma", "ajinkya rahane", "david warner", "glenn maxwell", "robin uthappa", "shane watson", "sandeep sharma", "sunil narine", "pravin tambe", "yuzvendra chahal", "bhuvneshwar kumar"]
+513 -
+["rohit sharma", "ajinkya rahane", "david warner", "dwayne smith", "brendon mccullum", "shane watson", "sandeep sharma", "pravin tambe", "varun aaron", "yuzvendra chahal", "bhuvneshwar kumar"]
+512-
+["rohit sharma", "ajinkya rahane", "aaron finch", "david warner", "brendon mccullum", "shane watson", "sandeep sharma", "pravin tambe", "varun aaron", "yuzvendra chahal", "bhuvneshwar kumar"]
+511 -
+["rohit sharma", "ajinkya rahane", "david warner", "glenn maxwell", "brendon mccullum", "shane watson", "sandeep sharma", "pravin tambe", "varun aaron", "yuzvendra chahal", "bhuvneshwar kumar"]
+510 -
+["rohit sharma", "ajinkya rahane", "david warner", "dwayne smith", "glenn maxwell", "brendon mccullum", "ravindra jadeja", "sandeep sharma", "varun aaron", "yuzvendra chahal", "bhuvneshwar kumar"]
+509 -
+["rohit sharma", "ajinkya rahane", "dwayne smith", "glenn maxwell", "chris gayle", "brendon mccullum", "ravindra jadeja", "sandeep sharma", "varun aaron", "yuzvendra chahal", "bhuvneshwar kumar"]
+508 -
+["ajinkya rahane", "david warner", "dwayne smith", "glenn maxwell", "brendon mccullum", "ravindra jadeja", "mohit sharma", "sandeep sharma", "pravin tambe", "varun aaron", "bhuvneshwar kumar"]
+507 -
+["ajinkya rahane", "dwayne smith", "suresh raina", "jp duminy", "glenn maxwell", "brendon mccullum", "ravindra jadeja", "mohit sharma", "sandeep sharma", "pravin tambe", "varun aaron"])
+506 -
+["ajinkya rahane", "dwayne smith", "suresh raina", "jp duminy", "brendon mccullum", "ravindra jadeja", "mohit sharma", "pravin tambe", "mitchell starc", "varun aaron", "yuzvendra chahal"]
+505 -
+["ajinkya rahane", "dwayne smith", "suresh raina", "jp duminy", "brendon mccullum", "ravindra jadeja", "mohit sharma", "pravin tambe", "mitchell starc", "varun aaron", "yuzvendra chahal"]
+504 -
+["ajinkya rahane", "dwayne smith", "suresh raina", "jp duminy", "brendon mccullum", "akshar patel", "mohit sharma", "pravin tambe", "mitchell starc", "varun aaron", "yuzvendra chahal"]
+503 -
+["ajinkya rahane", "dwayne smith", "suresh raina", "jp duminy", "glenn maxwell", "brendon mccullum", "akshar patel", "harbhajan singh", "mohit sharma", "sandeep sharma", "pravin tambe"]
+502 -
+["manish pandey", "ajinkya rahane", "dwayne smith", "suresh raina", "brendon mccullum", "akshar patel", "jacques kallis", "harbhajan singh", "mohit sharma", "sunil narine", "pravin tambe"]
+430 -
+["manish pandey", "ajinkya rahane", "aaron finch", "suresh raina", "robin uthappa", "akshar patel", "jacques kallis", "harbhajan singh", "sunil narine", "lasith malinga", "pravin tambe"]
+429 -
+"manish pandey", "ajinkya rahane", "aaron finch", "suresh raina", "robin uthappa", "akshar patel", "jacques kallis", "harbhajan singh", "sunil narine", "pravin tambe", "yuzvendra chahal"]
+428 -
+["david miller", "manish pandey", "virat kohli", "aaron finch", "suresh raina", "akshar patel", "glenn maxwell", "yuvraj singh", "parthiv patel", "harbhajan singh", "yuzvendra chahal"]
+427 -
+["manish pandey", "virat kohli", "aaron finch", "suresh raina", "jp duminy", "akshar patel", "glenn maxwell", "yuvraj singh", "parthiv patel", "harbhajan singh", "yuzvendra chahal"]
+426 -
+["manish pandey", "virat kohli", "suresh raina", "jp duminy", "akshar patel", "glenn maxwell", "jacques kallis", "yuvraj singh", "parthiv patel", "sunil narine", "yuzvendra chahal"]
+425 -
+["manish pandey", "virat kohli", "francois du plessis", "suresh raina", "jp duminy", "akshar patel", "jacques kallis", "yuvraj singh", "parthiv patel", "sunil narine", "yuzvendra chahal"]
+424 -
+["manish pandey", "virat kohli", "francois du plessis", "suresh raina", "akshar patel", "jacques kallis", "shakib al hasan", "yuvraj singh", "parthiv patel", "sunil narine", "yuzvendra chahal"]
+
+423 -
+["manish pandey", "ajinkya rahane", "dwayne smith", "francois du plessis", "suresh raina", "brendon mccullum", "akshar patel", "shane watson", "yuvraj singh", "ravichandran ashwin", "yuzvendra chahal"]
+
+422 -
+["david miller", "virender sehwag", "ajinkya rahane", "dwayne smith", "suresh raina", "brendon mccullum", "akshar patel", "glenn maxwell", "yuvraj singh", "ravichandran ashwin", "yuzvendra chahal"]
+
+421 -
+["virender sehwag", "ajinkya rahane", "dwayne smith", "suresh raina", "jp duminy", "brendon mccullum", "akshar patel", "glenn maxwell", "yuvraj singh", "ravichandran ashwin", "yuzvendra chahal"]
+420 -
+["virender sehwag", "ajinkya rahane", "suresh raina", "jp duminy", "akshar patel", "glenn maxwell", "shane watson", "yuvraj singh", "dinesh karthik", "krishmar santokie", "yuzvendra chahal"]
+
+419 -
+["manish pandey", "virat kohli", "suresh raina", "jp duminy", "akshar patel", "jacques kallis", "yuvraj singh", "dinesh karthik", "sunil narine", "krishmar santokie", "yuzvendra chahal"]
+
+418 -
+["ajinkya rahane", "virat kohli", "aaron finch", "suresh raina", "jp duminy", "akshar patel", "shane watson", "yuvraj singh", "dinesh karthik", "sayan mondal", "krishmar santokie"]
